@@ -35,3 +35,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvinayvk&show_icons=true&locale=en" alt="iamvinayvk" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvinayvk&" alt="iamvinayvk" /></p>
+
+[![An image of @iamvinayvk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamvinayvk)](https://holopin.io/@iamvinayvk)
