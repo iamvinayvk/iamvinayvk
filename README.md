@@ -5,13 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvinayvk&label=Profile%20views&color=0e75b6&style=flat" alt="iamvinayvk" /> </p>
 
-- 🔭 I’m currently working on [NoteKeeper](github.com/iamvinayvk/NoteKeeper)
-
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [github.com/iamvinayvk](github.com/iamvinayvk)
-
-- 💬 Ask me about **React,Node.js,express,CSS**
 
 - 📫 How to reach me **iamvinayvk@gmail.com**
 
