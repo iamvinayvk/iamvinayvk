@@ -1,7 +1,7 @@
 # 👋 Vinay Kushwaha - Software Developer
 
 ## About Me
-A passionate software developer from India with expertise in cross-platform mobile and web application development. I specialize in creating scalable, efficient software solutions using modern technologies.
+A passionate software developer with expertise in cross-platform mobile and web application development. I specialize in creating scalable, efficient software solutions using modern technologies.
 
 ## 🚀 Professional Experience
 
