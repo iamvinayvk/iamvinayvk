@@ -1,21 +1,24 @@
-# 👋 Vinay Kushwaha - Software Developer
+# 👋 Vinay Kushwaha - Software Engineer
 
 ## About Me
 A passionate software developer with expertise in cross-platform mobile and web application development. I specialize in creating scalable, efficient software solutions using modern technologies.
 
 ## 🚀 Professional Experience
 
-### Frontend Developer | Josh Technology Group
-**(Feb 2023 - Present)**
+### Senior Frontend Engineer | Josh Technology Group
+**(Apr 2025 - Present)**
 
-### Software Developer | Caravel.Tech
+### Frontend Engineer | Josh Technology Group
+**(Feb 2023 - Mar 2025)**
+
+### Software Engineer | Caravel.Tech
 **(Jun 2022 - Nov 2022)**
 
 ## 💻 Technical Skills
-- **Programming Languages:** JavaScript, TypeScript, Dart, C/C++
-- **Frameworks:** React, Flutter, Next.js
+- **Programming Languages:** JavaScript, TypeScript, Dart, Python, C/C++
+- **Frameworks:** React, Flutter, Next.js, Django
 - **Libraries:** Bloc, Riverpod, Redux, Zustand
-- **Tools:** Git, Firebase, Jira
+- **Tools:** Git, Firebase, Jira, GCP, AWS
 - **Styling:** Tailwind CSS, Material UI
 
 ## 🔗 Connect with Me
