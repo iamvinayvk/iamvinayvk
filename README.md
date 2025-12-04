@@ -22,6 +22,7 @@ I enjoy working with modern technologies, architecting systems, and continuously
 - **Tools:** Git, Firebase, Jira, GCP, AWS, Redis, Kafka, GraphQL
 - **Styling:** Tailwind CSS, Material UI
 - **Databases:** MongoDB, Postgres, MySQL
+- **AI:** LangChain, LLM Integrations, Vector Databases, RAG
 
 ## 🔗 Connect with Me
 - **Email:** iamvinayvk@gmail.com
